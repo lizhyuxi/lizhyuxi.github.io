@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my personal website, where I share my passion and expertise in CS related fields.
 # 💬 About Me
-I am a junior student from [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research intersts includes computer vision, natural language processing and machine learning.
+I am a junior student from [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests includes computer vision, natural language processing and machine learning.
 
 You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
@@ -49,6 +49,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 # 📖 Educations
 - *2020.09 - 2023.04 (now)*, Undergraduate student in French and Information Engineering, expected September 2024, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
   - [GPA: Information Engineering (90/100). French Language (87/100). Grade rank top 20%](../images/刘治宇_本科生英文成绩单.pdf)
+  - Courses: C Program and Algorithm Analysis, Database system introduction, Data structure, Computer network, Machine learning, Information theory and coding principles, Computer composition and architecture, Mobile communication system, Programming language theory, Digital signal processing
   - Programming languages: Python, C, C++, MATLAB, SQL
   - English level: China CET-4 score 601. CET-6 score 540. [GRE score 337](../images/GRE.pdf) (Quant 170, Verbal 167, global top 3%)
 
