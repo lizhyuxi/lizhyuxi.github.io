@@ -19,31 +19,25 @@ redirect_from:
 
 I am a junior student from [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interst includes computer vision, natural language processing and machine learning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
 You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:lizhyuxi@sjtu.edu.cn) / [Wechat](../images/wechat.jpg)
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Crowd counting model based on CNN and Transformer]
-Accepted by CEIP 2023, not published yet
+[**Crowd counting model based on CNN and Transformer**](http://lizhyuxi.github.io/files/paper1.pdf)
+Time: Accepted by **CEIP 2023**, not published yet
+Author: **Zhiyu Liu**, Yongqing Qu
 
-**Zhiyu Liu**, Yongqing Qu
-
-[**Download paper here**](http://lizhyuxi.github.io/files/paper1.pdf)
+-Supervised by [Prof. Mark Vogelsberger](https://www.XXX.com/](https://physics.mit.edu/faculty/mark-vogelsberger/) from [MIT](https://www.mit.edu/), a combination of Convolutional Neural Networks (CNNs) and Vision Transformer (ViT) was used to tackle the crowd counting issue. 
+-CNN is good at local feature extraction, while ViT's attention mechanism is ideal for global feature extraction. Our approach: their integration presents a btter performance than the original CNN model.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
