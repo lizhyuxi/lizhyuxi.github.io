@@ -29,22 +29,24 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 <div class='paper-box-text' markdown="1">
 
 [**Crowd counting model based on CNN and Transformer**](http://lizhyuxi.github.io/files/paper1.pdf)
-Time: Accepted by **CEIP 2023**, not published yet
-Author: **Zhiyu Liu**, Yongqing Qu
+**Zhiyu Liu**, Yongqing Qu
 
 - Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/) from [MIT](https://www.mit.edu/), a combination of Convolutional Neural Networks (CNNs) and Vision Transformer (ViT) was used to tackle the crowd counting issue. 
-- CNN is good at local feature extraction, while ViT's attention mechanism is ideal for global feature extraction. Our approach: their integration presents a btter performance than the original CNN model.
+- CNN is good at local feature extraction, while ViT's attention mechanism is ideal for global feature extraction. Our approach using integration presents a btter performance than the original CNN model.
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11* Merit Student in sophomore year (4 places in total)
+- *2022.10* Second-year university student B scholarship of excellence (Top 15%)
+- *2022.08* The Best Computer Vision Project (among 12 groups) of Imperial College Data Science Online Summer School
+- *2022.07* The First Prize (among 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
+- *2022.02* Successful participation award of Mathematical Contest In Modeling 2022
+- *2021.10* First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
 - *2020.09 - 2023.04 (now)*, Undergraduate student in French and Information Engineering, expected September 2024, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
   - GPA: Information Engineering (90/100). French Language (87/100). Grade rank 26/98
-  - Award: First-year university student C scholarship of excellence (top 30%), Second-year university student B scholarship of excellence (top 15%), Merit Student in sophomore year (4 places in total)
   - Programming languages: Python, C & C++, MATLAB, SQL
   - English level: China CET-4 score 601. CET-6 score 540. GRE score 337 (Quant 170, Verbal 167, global top 3%)
 
