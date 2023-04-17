@@ -32,8 +32,8 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 Time: Accepted by **CEIP 2023**, not published yet
 Author: **Zhiyu Liu**, Yongqing Qu
 
--Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/) from [MIT](https://www.mit.edu/), a combination of Convolutional Neural Networks (CNNs) and Vision Transformer (ViT) was used to tackle the crowd counting issue. 
--CNN is good at local feature extraction, while ViT's attention mechanism is ideal for global feature extraction. Our approach: their integration presents a btter performance than the original CNN model.
+- Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/) from [MIT](https://www.mit.edu/), a combination of Convolutional Neural Networks (CNNs) and Vision Transformer (ViT) was used to tackle the crowd counting issue. 
+- CNN is good at local feature extraction, while ViT's attention mechanism is ideal for global feature extraction. Our approach: their integration presents a btter performance than the original CNN model.
 </div>
 </div>
 
