@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 💬 About Me
 Welcome to my personal website, where I share my passion and expertise in CS related fields.
-
+# 💬 About Me
 I am a junior student from [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research intersts includes computer vision, natural language processing and machine learning.
 
 You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
