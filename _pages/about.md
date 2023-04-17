@@ -32,24 +32,18 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 Time: Accepted by **CEIP 2023**, not published yet
 Author: **Zhiyu Liu**, Yongqing Qu
 
--Supervised by [Prof. Mark Vogelsberger](https://www.XXX.com/](https://physics.mit.edu/faculty/mark-vogelsberger/) from [MIT](https://www.mit.edu/), a combination of Convolutional Neural Networks (CNNs) and Vision Transformer (ViT) was used to tackle the crowd counting issue. 
+-Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/) from [MIT](https://www.mit.edu/), a combination of Convolutional Neural Networks (CNNs) and Vision Transformer (ViT) was used to tackle the crowd counting issue. 
 -CNN is good at local feature extraction, while ViT's attention mechanism is ideal for global feature extraction. Our approach: their integration presents a btter performance than the original CNN model.
 </div>
 </div>
-
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2023.04 (now)*, Undergraduate,  [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
+- *2017.09 - 2020.06*, Nanchang Foreign Languages School (High school), Nanchang.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Experiences
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
