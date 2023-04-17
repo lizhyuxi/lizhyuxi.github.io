@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "Welcome to my personal website, where I share my passion and expertise in CS related projects!""
+description              : # "Welcome to my personal website, where I share my passion and expertise in CS related projects!""
 repository               : "lizhyuxi/lizhyuxi.github.io"
 google_scholar_stats_use_cdn : false
 
