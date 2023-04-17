@@ -42,8 +42,12 @@ Author: **Zhiyu Liu**, Yongqing Qu
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2020.09 - 2023.04 (now)*, Undergraduate,  [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
+- *2020.09 - 2023.04 (now)*, Undergraduate student in French and Information engineering, expected September 2024, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
+  -Core GPA: Information Engineering (90/100). French Language (87/100). Grade rank 26/98.
+  -Award: First-year university student C scholarship of excellence (top 30%), Second-year university student B scholarship of excellence (top 15%), Merit Student in sophomore year (4 places in total)
+  
 - *2017.09 - 2020.06*, Nanchang Foreign Languages School (High school), Nanchang.
 
 # 💻 Experiences
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 
