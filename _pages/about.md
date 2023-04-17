@@ -58,4 +58,4 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.07 - 2022.08*, Imperial College Data Science Online Summer School
 - *2022.05 - 2022.07*, National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
 - *2022.02 - 2022.02*, The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
-- *2021.12 - 2022.09*, PRP Project of Shanghai Jiao Tong University, No. 41: High frequency grammar points 
+- *2021.12 - 2022.09*, PRP Project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
