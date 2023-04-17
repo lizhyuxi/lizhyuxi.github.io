@@ -29,7 +29,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/CNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Crowd counting model based on CNN and Transformer**](http://lizhyuxi.github.io/files/CNN.pdf)
+[**Crowd counting model based on CNN and Transformer**](http://lizhyuxi.github.io/images/CNN.pdf)
 **Zhiyu Liu**, Yongqing Qu
 
 - Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/) from [MIT](https://www.mit.edu/), a combination of Convolutional Neural Networks (CNNs) and Vision Transformer (ViT) was used to tackle the crowd counting issue. 
