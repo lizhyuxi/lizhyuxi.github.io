@@ -47,12 +47,15 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 # 📖 Educations
 - *2020.09 - 2023.04 (now)*, Undergraduate student in French and Information Engineering, expected September 2024, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
   - GPA: Information Engineering (90/100). French Language (87/100). Grade rank 26/98
-  - Programming languages: Python, C & C++, MATLAB, SQL
+  - Programming languages: Python, C, C++, MATLAB, SQL
   - English level: China CET-4 score 601. CET-6 score 540. GRE score 337 (Quant 170, Verbal 167, global top 3%)
 
 - *2017.09 - 2020.06*, Nanchang Foreign Languages School (High school), Nanchang.
   - Academic record: top 3 among c.600 students (top 0.5%). Early admission to Shanghai Jiao Tong university.
 
-# 💻 Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- 
+# 💻 Experiences (more details in CV)
+- *2023.01 - 2023.03*, [MIT](https://www.mit.edu/) [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/) Online Research Project
+- *2022.07 - 2022.08*, Imperial College Data Science Online Summer School
+- *2022.05 - 2022.07*, National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
+- *2022.02 - 2022.02*, The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
+- *2021.12 - 2022.09*, PRP Project of Shanghai Jiao Tong University, No. 41: High frequency grammar points 
