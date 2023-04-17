@@ -54,7 +54,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - *2016.09 - 2020.06*, Nanchang Foreign Languages School (High school), Nanchang.
   - Academic record: top 3 among c.600 students (top 0.5%). Early admission to Shanghai Jiao Tong university.
 
-# 💻 Experiences (more details in CV)
+# 💻 Experiences
 - *2023.01 - 2023.03*, [MIT](https://www.mit.edu/) [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/) Online Research Project
 - *2022.07 - 2022.08*, Imperial College Data Science Online Summer School
 - *2022.05 - 2022.07*, National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
