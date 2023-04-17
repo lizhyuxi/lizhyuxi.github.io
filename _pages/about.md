@@ -25,7 +25,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/CNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Crowd counting model based on CNN and Transformer**](http://lizhyuxi.github.io/files/paper1.pdf)
@@ -39,9 +39,9 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 # 🎖 Honors and Awards
 - *2022.11* Merit Student in sophomore year (4 places in total)
 - *2022.10* Second-year university student B scholarship of excellence (Top 15%)
-- *2022.08* The Best Computer Vision Project (among 12 groups) of Imperial College Data Science Online Summer School
-- *2022.07* The First Prize (among 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
-- *2022.02* Successful participation award of Mathematical Contest In Modeling 2022
+- *2022.08* [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (among 12 groups) of Imperial College Data Science Online Summer School
+- *2022.07* [The First Prize](../images/2022年NUS暑校金奖.pdf) (among 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
+- *2022.02* [Successful participation award](../images/2022年美赛S奖.pdf) of Mathematical Contest In Modeling 2022
 - *2021.10* First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
