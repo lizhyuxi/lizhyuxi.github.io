@@ -49,7 +49,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 
 # 📖 Educations
 - *2020.09 - 2023.04 (now)*, Undergraduate student in French and Information Engineering, expected September 2024, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
-  - GPA: Information Engineering (90/100). French Language (87/100). Grade rank 26/98
+  - [GPA: Information Engineering (90/100). French Language (87/100). Grade rank 26/98](../images/刘治宇_本科生英文成绩单.pdf)
   - Programming languages: Python, C, C++, MATLAB, SQL
   - English level: [China CET-4 score 601](../images/CET4.pdf). [CET-6 score 540](../images/CET6.pdf). [GRE score 337](../images/GRE.pdf) (Quant 170, Verbal 167, global top 3%)
 
