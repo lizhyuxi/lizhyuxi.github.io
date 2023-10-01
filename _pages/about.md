@@ -64,4 +64,14 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.02 - 2022.02*, The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
 - *2021.12 - 2022.09*, PRP Project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
 
-  <a href="https://clustrmaps.com/site/1bwr9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=bos3NsJ52_ZnkOIUyz-qe5X2D-i2g3yWEa37vfl6KhU&cl=ffffff" width="300" height="150" /></a>
+  
+<div style="text-align: center;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=bos3NsJ52_ZnkOIUyz-qe5X2D-i2g3yWEa37vfl6KhU&cl=ffffff&w=a"></script>
+</div>
+
+<style>
+  #clustrmaps {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
