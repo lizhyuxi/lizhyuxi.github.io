@@ -71,7 +71,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 
 <style>
   #clustrmaps {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
   }
 </style>
