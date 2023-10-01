@@ -66,4 +66,4 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 
 <br>
 <br>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=bos3NsJ52_ZnkOIUyz-qe5X2D-i2g3yWEa37vfl6KhU'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=240&t=tt&d=bos3NsJ52_ZnkOIUyz-qe5X2D-i2g3yWEa37vfl6KhU'></script>
