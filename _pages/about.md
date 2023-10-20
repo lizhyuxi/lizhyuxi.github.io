@@ -42,9 +42,8 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 # 🎖 Honors and Awards
 - *2022.11* Merit Student in sophomore year (4 places in total)
 - *2022.10* Second-year university student B scholarship of excellence (Top 15%)
-- *2022.08* [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (among 12 groups) of Imperial College Data Science Online Summer School
-- *2022.07* [The First Prize](../images/2022年NUS暑校金奖.pdf) (among 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
-- *2022.02* [Successful Participation Award](../images/2022年美赛S奖.pdf) of Mathematical Contest In Modeling 2022
+- *2022.08* [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (1st out of 12 groups) of Imperial College Data Science Online Summer School
+- *2022.07* [The First Prize](../images/2022年NUS暑校金奖.pdf) (1st out of 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
 - *2021.10* First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
