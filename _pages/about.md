@@ -59,7 +59,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 # 💻 Experiences
 - *2023.03 - Present*, Topography Measurement by EBSD Calibration. Patent and research paper are in preparation
 - *2023.06 - 2023.09*, Referring Image Segmentation Research Internship. Supervised by [Prof. Miaojing Shi](https://scholar.google.com/citations?user=aj2XHWoAAAAJ)
-- *2023.01 - 2023.03*, Crowd Counting Model Research. Supervised by [MIT](https://www.mit.edu/) [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/)
+- *2023.01 - 2023.03*, Crowd Counting Model Research. Supervised by [MIT](https://www.mit.edu/) [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/). Paper accepted for publication
 - *2022.12 - 2023.09*, PRP (Participation in Research Program) project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
 - *2022.07 - 2022.08*, Imperial College Data Science Online Summer School
 - *2022.05 - 2022.07*, National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
