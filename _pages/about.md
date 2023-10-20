@@ -48,21 +48,23 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - *2021.10* First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
-- *2020.09 - 2023.04 (now)*, Undergraduate student in French and Information Engineering, expected September 2024, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
-  - [GPA: Information Engineering (90/100). French Language (87/100). Grade rank top 20%](../images/刘治宇_本科生英文成绩单.pdf)
+- *2020.09 - 2024.06 (expected)*, Bachelor's Degree in Information Engineering & French Language, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
+  - [GPA: Information Engineering (91/100). French Language (87/100). Grade rank top 20%](../images/刘治宇_本科生英文成绩单.pdf)
   - Courses: C Program and Algorithm Analysis, Database System Introduction, Data Structure, Digital Signal Processing, Optimization Theory, Graph Theory, Probability Theory, Computer Network, Machine Learning, Information Theory and Coding Principles, Computer Composition and Architecture, Mobile Communication System, Programming Language Theory
   - Programming languages: Python, C, C++, MATLAB, SQL
-  - English level: China CET-4 score 601. CET-6 score 540. [GRE score 337]( Graph Theory,../images/GRE.pdf) (Quant 170, Verbal 167, global top 3%)
+  - English level: [Tofel score 104 (30 28 21 25)](../images/Tofel.pdf) [GRE score 337](../images/GRE.pdf) (Quant 170, Verbal 167, global top 3%)
 
 - *2016.09 - 2020.06*, Nanchang Foreign Languages School (High school), Nanchang.
   - Academic record: top 3 among c.600 students (top 0.5%). Early admission to Shanghai Jiao Tong university.
 
 # 💻 Experiences
-- *2023.01 - 2023.03*, [MIT](https://www.mit.edu/) [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/) Online Research Project
+- *2023.03 - Present*, Topography Measurement by EBSD Calibration. Patent and research paper are in preparation
+- *2023.06 - 2023.09*, Referring Image Segmentation Research Internship. Supervised by [Prof. Miaojing Shi](https://scholar.google.com/citations?user=aj2XHWoAAAAJ)
+- *2023.01 - 2023.03*, Crowd Counting Model Research. Supervised by [MIT](https://www.mit.edu/) [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/)
+- *2022.12 - 2023.09*, PRP (Participation in Research Program) project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
 - *2022.07 - 2022.08*, Imperial College Data Science Online Summer School
 - *2022.05 - 2022.07*, National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
 - *2022.02 - 2022.02*, The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
-- *2021.12 - 2022.09*, PRP Project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
 
 <br>
 <br>
