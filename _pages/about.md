@@ -40,11 +40,11 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 </div>
 
 # 🎖 Honors and Awards
-- *2022.11* Merit Student in sophomore year (4 places in total)
-- *2022.10* Second-year university student B scholarship of excellence (Top 15%)
-- *2022.08* [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (1st out of 12 groups) of Imperial College Data Science Online Summer School
-- *2022.07* [The First Prize](../images/2022年NUS暑校金奖.pdf) (1st out of 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
-- *2021.10* First-year university student C scholarship of excellence (Top 30%)
+- *2022.11*  Merit Student in sophomore year (Top 4%)
+- *2022.10*  Second-year university student B scholarship of excellence (Top 15%)
+- *2022.08*  [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (1st out of 12 groups) of Imperial College Data Science Online Summer School
+- *2022.07*  [The First Prize](../images/2022年NUS暑校金奖.pdf) (1st out of 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
+- *2021.10*  First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
 - *2020.09 - 2024.06 (expected)*, Bachelor's Degree in Information Engineering & French Language, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
@@ -57,13 +57,13 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
   - Academic record: top 3 among c.600 students (top 0.5%). Early admission to Shanghai Jiao Tong university.
 
 # 💻 Experiences
-- *2023.03 - Present*, Topography Measurement by EBSD Calibration. Supervised by [Prof. Qiwei Shi](https://speit.sjtu.edu.cn/faculty/team-34.html). Patent and paper are in preparation
-- *2023.06 - 2023.09*, Referring Image Segmentation Research Internship. Supervised by [Prof. Miaojing Shi](https://scholar.google.com/citations?user=aj2XHWoAAAAJ)
-- *2023.01 - 2023.03*, Crowd Counting Model Research. Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/). Paper accepted for publication
-- *2022.12 - 2023.09*, PRP (Participation in Research Program) project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
-- *2022.07 - 2022.08*, Imperial College Data Science Online Summer School
-- *2022.05 - 2022.07*, National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
-- *2022.02 - 2022.02*, The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
+- *2023.03 - Present*  Topography Measurement by EBSD Calibration. Supervised by [Prof. Qiwei Shi](https://speit.sjtu.edu.cn/faculty/team-34.html). Patent and paper are in preparation
+- *2023.06 - 2023.09*  Referring Image Segmentation Research Internship. Supervised by [Prof. Miaojing Shi](https://scholar.google.com/citations?user=aj2XHWoAAAAJ)
+- *2023.01 - 2023.03*  Crowd Counting Model Research. Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/). Paper accepted for publication
+- *2022.12 - 2023.09*  PRP (Participation in Research Program) project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
+- *2022.07 - 2022.08*  Imperial College Data Science Online Summer School
+- *2022.05 - 2022.07*  National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
+- *2022.02 - 2022.02*  The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
 
 <br>
 <br>
