@@ -25,6 +25,14 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 
 [Email](mailto:lizhyuxi@sjtu.edu.cn) / [Wechat](../images/wechat.jpg)
 
+# 🔥 News
+🎉🎉 I am excited to share that I have received offers from the following prestigious institutions for graduate studies:
+- Northeastern University (NEU)
+- University of California, San Diego (UCSD)
+- Imperial College London (IC)
+- Dartmouth College
+Each offer represents an incredible opportunity for furthering my academic and professional journey. I am grateful for the chance to consider these esteemed institutions and the paths they offer. Stay tuned for updates as I make my decision!
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/CNN.png' alt="sym" width="100%"></div></div>
