@@ -65,6 +65,8 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.05 - 2022.07*  National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
 - *2022.02 - 2022.02*  The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
 
+<p>
 <br>
 <br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=240&t=tt&d=bos3NsJ52_ZnkOIUyz-qe5X2D-i2g3yWEa37vfl6KhU'></script>
+</p>
