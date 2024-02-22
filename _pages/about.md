@@ -31,7 +31,8 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - University of California, San Diego (UCSD)
 - Imperial College London (IC)
 - Dartmouth College
-  
+- Pending decisions from a few more universities...
+
 Each offer represents an incredible opportunity for furthering my academic and professional journey. I am grateful for the chance to consider these esteemed institutions and the paths they offer. Stay tuned for updates as I make my decision!
 
 # 📝 Publications 
