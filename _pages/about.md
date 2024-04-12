@@ -51,6 +51,7 @@ Each offer represents an incredible opportunity for furthering my academic and p
 </div>
 
 # 🎖 Honors and Awards
+- *2023.10*  Third-year university student B scholarship of excellence (Top 10%)
 - *2022.11*  Merit Student in sophomore year (Top 4%)
 - *2022.10*  Second-year university student B scholarship of excellence (Top 15%)
 - *2022.08*  [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (1st out of 12 groups) of Imperial College Data Science Online Summer School
