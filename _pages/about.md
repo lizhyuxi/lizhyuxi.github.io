@@ -19,22 +19,12 @@ redirect_from:
 
 Welcome to my personal website, where I share my passion and expertise in CS related fields.
 # 💬 About Me
-I am a senior student from [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests includes computer vision, natural language processing and machine learning.
+I am a first-year [Master of Engineering](https://www.meng.ucla.edu/) student at [UCLA Samueli School of Engineering](https://samueli.ucla.edu/) and a graduate of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from the [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html). My research interests include computer vision, natural language processing, and large language models.
 
-You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum1_Vitae.pdf).
+You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:lizhyuxi@sjtu.edu.cn) / [Wechat](../images/wechat.jpg)
 
-# 🔥 News
-🎉🎉 I am excited to share that I have received offers from the following prestigious institutions for graduate studies:
-- University of California, Los Angeles (UCLA)
-- University of California, San Diego (UCSD)
-- Imperial College London (IC)
-- Dartmouth College
-- Northeastern University (NEU)
-- Pending decisions from a few more universities...
-
-Each offer represents an incredible opportunity for furthering my academic and professional journey. I am grateful for the chance to consider these esteemed institutions and the paths they offer. Stay tuned for updates as I make my decision!
 
 # 📝 Publications 
 
