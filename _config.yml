@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "ZHIYU LIU"
   avatar           : "images/ZHIYU LIU.png"
-  bio              : "B.Eng in Shanghai Jiao Tong University /r/n M.Eng in University of California, Los Angeles"
+  bio              : "B.Eng in Shanghai Jiao Tong University"
+  bio2             : "M.Eng in University of California, Los Angeles"  
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
