@@ -26,7 +26,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 [Email](mailto:lizhyuxi@sjtu.edu.cn) / [Wechat](../images/wechat.jpg)
 
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/CNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,7 +62,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - *2021.10*  First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
-- *2020.09 - 2024.06 (expected)*, Bachelor's Degree in Information Engineering & French Language, [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
+- *2020.09 - 2024.06*, [Bachelor's Degree in Information Engineering & French Language](../images/BachelarCertificate.pdf), [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
   - [GPA: Information Engineering (91/100). French Language (87/100). Grade rank top 20%](../images/Transcription_ENG.pdf)
   - Courses: C Program and Algorithm Analysis, Database System Introduction, Data Structure, Digital Signal Processing, Optimization Theory, Graph Theory, Probability Theory, Computer Network, Machine Learning, Information Theory and Coding Principles, Computer Composition and Architecture, Mobile Communication System, Programming Language Theory
   - Programming languages: Python, C, C++, MATLAB, SQL
