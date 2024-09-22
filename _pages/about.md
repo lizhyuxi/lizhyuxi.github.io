@@ -54,13 +54,13 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Outstanding graduate of Shanghai Jiao Tong University (Top 15%)
-- *2023.10*   Third-year university student B scholarship of excellence (Top 10%)
-- *2022.11*   Merit Student in sophomore year (Top 4%)
-- *2022.10*   Second-year university student B scholarship of excellence (Top 15%)
-- *2022.08*   [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (1st out of 12 groups) of Imperial College Data Science Online Summer School
-- *2022.07*   [The First Prize](../images/2022年NUS暑校金奖.pdf) (1st out of 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
-- *2021.10*   First-year university student C scholarship of excellence (Top 30%)
+- *2024.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outstanding graduate of Shanghai Jiao Tong University (Top 15%)
+- *2023.10* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third-year university student B scholarship of excellence (Top 10%)
+- *2022.11* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Merit Student in sophomore year (Top 4%)
+- *2022.10* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second-year university student B scholarship of excellence (Top 15%)
+- *2022.08* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (1st out of 12 groups) of Imperial College Data Science Online Summer School
+- *2022.07* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The First Prize](../images/2022年NUS暑校金奖.pdf) (1st out of 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
+- *2021.10* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
 - *2024.09 - 2025.12 (expected)*, Master of Engineering, Artificial Intelligence track, [UCLA Samueli School of Engineering](https://samueli.ucla.edu/), Los Angeles, California.
@@ -74,14 +74,14 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
   - Academic record: top 3 among c.600 students (top 0.5%). Early admission to Shanghai Jiao Tong university.
 
 # 💻 Experiences
-- *2024.03 - 2024.06*  Interned as **Large Language Model Engineer** at an AI unicorn company [MINIMAX](https://www.minimaxi.com/)
-- *2023.03 - 2024.03*  Topography Measurement by EBSD Calibration. Supervised by [Prof. Qiwei Shi](https://speit.sjtu.edu.cn/faculty/team-34.html). Patent application approved
-- *2023.06 - 2023.09*  Referring Image Segmentation Research Internship. Supervised by [Prof. Miaojing Shi](https://scholar.google.com/citations?user=aj2XHWoAAAAJ)
-- *2023.01 - 2023.03*  Crowd Counting Model Research. Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/). Paper accepted for publication
-- *2022.12 - 2023.09*  PRP (Participation in Research Program) project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
-- *2022.07 - 2022.08*  Imperial College Data Science Online Summer School
-- *2022.05 - 2022.07*  National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
-- *2022.02 - 2022.02*  The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
+- *2024.03 - 2024.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interned as **Large Language Model Engineer** at an AI unicorn company [MINIMAX](https://www.minimaxi.com/)
+- *2023.03 - 2024.03* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Topography Measurement by EBSD Calibration. Supervised by [Prof. Qiwei Shi](https://speit.sjtu.edu.cn/faculty/team-34.html). Patent application approved
+- *2023.06 - 2023.09* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Referring Image Segmentation Research Internship. Supervised by [Prof. Miaojing Shi](https://scholar.google.com/citations?user=aj2XHWoAAAAJ)
+- *2023.01 - 2023.03* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crowd Counting Model Research. Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/). Paper accepted for publication
+- *2022.12 - 2023.09* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PRP (Participation in Research Program) project of Shanghai Jiao Tong University, No. 41: High frequency grammar points analysis in engineering French based on Natural Language Processing
+- *2022.07 - 2022.08* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Imperial College Data Science Online Summer School
+- *2022.05 - 2022.07* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
+- *2022.02 - 2022.02* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Mathematical Contest in Modeling (MCM) Project - Problem C - Trading Strategies
 
 <p>
 <br>
