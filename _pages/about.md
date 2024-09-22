@@ -40,6 +40,19 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/CNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Intelligent Fault Diagnosis of Rolling Bearing based on Incremental Learning**](http://lizhyuxi.github.io/images/SRSE2024.pdf)
+  
+**Zhiyu Liu**, Zhiyi Zhang, Mohamed Sallak, Siqi Qiu*
+
+- My graduation thesis, supervised by Professor [Siqi Qiu](https://speit.sjtu.edu.cn/faculty/17), proposes a VMD-enhanced incremental learning model to improve fault diagnosis in rolling bearings.
+- By addressing catastrophic forgetting and enhancing diagnostic accuracy, it provides an adaptable solution for evolving fault patterns in industrial environments."
+  
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.10*  Third-year university student B scholarship of excellence (Top 10%)
 - *2022.11*  Merit Student in sophomore year (Top 4%)
