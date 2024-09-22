@@ -48,12 +48,13 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 **Zhiyu Liu**, Zhiyi Zhang, Mohamed Sallak, Siqi Qiu*
 
 - My graduation thesis, supervised by Professor [Siqi Qiu](https://speit.sjtu.edu.cn/faculty/17), proposes a VMD-enhanced incremental learning model to improve fault diagnosis in rolling bearings.
-- By addressing catastrophic forgetting and enhancing diagnostic accuracy, it provides an adaptable solution for evolving fault patterns in industrial environments."
+- By addressing catastrophic forgetting and enhancing diagnostic accuracy, it provides an adaptable solution for evolving fault patterns in industrial environments.
   
 </div>
 </div>
 
 # 🎖 Honors and Awards
+- *2024.06*  Outstanding graduate of Shanghai Jiao Tong University (Top 15%)
 - *2023.10*  Third-year university student B scholarship of excellence (Top 10%)
 - *2022.11*  Merit Student in sophomore year (Top 4%)
 - *2022.10*  Second-year university student B scholarship of excellence (Top 15%)
@@ -62,6 +63,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - *2021.10*  First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
+- *2024.09 - 2025.12 (expected)*, Master of Engineering, Artificial Intelligence track, [UCLA Samueli School of Engineering](https://samueli.ucla.edu/), Los Angeles, California.
 - *2020.09 - 2024.06*, [Bachelor's Degree in Information Engineering & French Language](../images/BachelarCertificate.pdf), [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
   - [GPA: Information Engineering (91/100). French Language (87/100). Grade rank top 20%](../images/Transcription_ENG.pdf)
   - Courses: C Program and Algorithm Analysis, Database System Introduction, Data Structure, Digital Signal Processing, Optimization Theory, Graph Theory, Probability Theory, Computer Network, Machine Learning, Information Theory and Coding Principles, Computer Composition and Architecture, Mobile Communication System, Programming Language Theory
