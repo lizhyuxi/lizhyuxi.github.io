@@ -54,7 +54,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06*   Outstanding graduate of Shanghai Jiao Tong University (Top 15%)
+- *2024.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Outstanding graduate of Shanghai Jiao Tong University (Top 15%)
 - *2023.10*   Third-year university student B scholarship of excellence (Top 10%)
 - *2022.11*   Merit Student in sophomore year (Top 4%)
 - *2022.10*   Second-year university student B scholarship of excellence (Top 15%)
