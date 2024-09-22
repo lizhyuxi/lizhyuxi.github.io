@@ -21,7 +21,7 @@ Welcome to my personal website, where I share my passion and expertise in CS rel
 # 💬 About Me
 I am a senior student from [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests includes computer vision, natural language processing and machine learning.
 
-You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum1_Vitae.pdf).
 
 [Email](mailto:lizhyuxi@sjtu.edu.cn) / [Wechat](../images/wechat.jpg)
 
