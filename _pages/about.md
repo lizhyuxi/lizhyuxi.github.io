@@ -63,14 +63,14 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 - *2021.10* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
-- *2024.09 - 2025.12 (expected)*, Master of Engineering, Artificial Intelligence track, [UCLA Samueli School of Engineering](https://samueli.ucla.edu/), Los Angeles, California.
-- *2020.09 - 2024.06*, [Bachelor's Degree in Information Engineering & French Language](../images/BachelarCertificate.pdf), [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
+- *2024.09 - 2025.12 (expected)*, &nbsp;&nbsp; Master of Engineering, Artificial Intelligence track, [UCLA Samueli School of Engineering](https://samueli.ucla.edu/), Los Angeles, California.
+- *2020.09 - 2024.06*, &nbsp;&nbsp; [Bachelor's Degree in Information Engineering & French Language](../images/BachelarCertificate.pdf), [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
   - [GPA: Information Engineering (91/100). French Language (87/100). Grade rank top 20%](../images/Transcription_ENG.pdf)
   - Courses: C Program and Algorithm Analysis, Database System Introduction, Data Structure, Digital Signal Processing, Optimization Theory, Graph Theory, Probability Theory, Computer Network, Machine Learning, Information Theory and Coding Principles, Computer Composition and Architecture, Mobile Communication System, Programming Language Theory
   - Programming languages: Python, C, C++, MATLAB, SQL
   - English level: [TOEFL iBT score 104 (30 28 21 25)](../images/TOEFL.pdf), [GRE score 337](../images/GRE.pdf) (Quant 170, Verbal 167, global top 3%)
 
-- *2016.09 - 2020.06*, Nanchang Foreign Languages School (High school), Nanchang.
+- *2016.09 - 2020.06*, &nbsp;&nbsp; Nanchang Foreign Languages School (High school), Nanchang.
   - Academic record: top 3 among c.600 students (top 0.5%). Early admission to Shanghai Jiao Tong university.
 
 # 💻 Experiences
