@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my personal website, where I share my passion and expertise in CS related fields.
 # 💬 About Me
-I am a first-year [Master of Engineering](https://www.meng.ucla.edu/) student at [UCLA Samueli School of Engineering](https://samueli.ucla.edu/) and a graduate of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from the [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html). My research interests include computer vision, natural language processing, and large language models.
+I am a first-year [Master of Engineering](https://www.meng.ucla.edu/) student at [UCLA Samueli School of Engineering](https://samueli.ucla.edu/) and a graduate of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from the [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/). My research interests include computer vision, natural language processing, and large language models.
 
 You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
