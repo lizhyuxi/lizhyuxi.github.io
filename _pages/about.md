@@ -54,13 +54,13 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06*  Outstanding graduate of Shanghai Jiao Tong University (Top 15%)
-- *2023.10*  Third-year university student B scholarship of excellence (Top 10%)
-- *2022.11*  Merit Student in sophomore year (Top 4%)
-- *2022.10*  Second-year university student B scholarship of excellence (Top 15%)
-- *2022.08*  [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (1st out of 12 groups) of Imperial College Data Science Online Summer School
-- *2022.07*  [The First Prize](../images/2022年NUS暑校金奖.pdf) (1st out of 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
-- *2021.10*  First-year university student C scholarship of excellence (Top 30%)
+- *2024.06*   Outstanding graduate of Shanghai Jiao Tong University (Top 15%)
+- *2023.10*   Third-year university student B scholarship of excellence (Top 10%)
+- *2022.11*   Merit Student in sophomore year (Top 4%)
+- *2022.10*   Second-year university student B scholarship of excellence (Top 15%)
+- *2022.08*   [The Best Computer Vision Project](../images/2022年IC暑校最佳CV奖.pdf) (1st out of 12 groups) of Imperial College Data Science Online Summer School
+- *2022.07*   [The First Prize](../images/2022年NUS暑校金奖.pdf) (1st out of 10 groups) of National University of Singapore (NUS) School of Computing (SOC) Summer Workshop
+- *2021.10*   First-year university student C scholarship of excellence (Top 30%)
 
 # 📖 Educations
 - *2024.09 - 2025.12 (expected)*, Master of Engineering, Artificial Intelligence track, [UCLA Samueli School of Engineering](https://samueli.ucla.edu/), Los Angeles, California.
