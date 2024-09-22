@@ -74,7 +74,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
   - Academic record: top 3 among c.600 students (top 0.5%). Early admission to Shanghai Jiao Tong university.
 
 # 💻 Experiences
-- *2024.03 - 2024.06*  Interned as an Large Language Model Engineer at an AI unicorn company [MINIMAX](https://www.minimaxi.com/)
+- *2024.03 - 2024.06*  Interned as **Large Language Model Engineer** at an AI unicorn company [MINIMAX](https://www.minimaxi.com/)
 - *2023.03 - 2024.03*  Topography Measurement by EBSD Calibration. Supervised by [Prof. Qiwei Shi](https://speit.sjtu.edu.cn/faculty/team-34.html). Patent application approved
 - *2023.06 - 2023.09*  Referring Image Segmentation Research Internship. Supervised by [Prof. Miaojing Shi](https://scholar.google.com/citations?user=aj2XHWoAAAAJ)
 - *2023.01 - 2023.03*  Crowd Counting Model Research. Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/). Paper accepted for publication
