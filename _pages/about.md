@@ -40,7 +40,7 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/CNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEIP 2023</div><img src='images/SRSE2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Intelligent Fault Diagnosis of Rolling Bearing based on Incremental Learning**](http://lizhyuxi.github.io/images/SRSE2024.pdf)
