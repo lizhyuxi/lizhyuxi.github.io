@@ -64,9 +64,8 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Zhiyu Liu_CV_2
 
 # 📖 Educations
 - *2024.09 - 2025.12 (expected)*, &nbsp;&nbsp; Master of Engineering, Artificial Intelligence track, [UCLA Samueli School of Engineering](https://samueli.ucla.edu/), Los Angeles, California.
-- GPA: 3.77/4.0
-- Selected Courses: Reinforcement Learning (A), Natural Language Processing (A), Large Scale Networks (A), Large Scale 
-Machine Learning (A-), Data & Business Analytics (A), Entrepreneurship for Engineers (A-) 
+  - GPA: 3.77/4.0
+  - Selected Courses: Reinforcement Learning (A), Natural Language Processing (A), Large Scale Networks (A), Large Scale Machine Learning (A-), Data & Business Analytics (A), Entrepreneurship for Engineers (A-) 
 - *2020.09 - 2024.06*, &nbsp;&nbsp; [Bachelor's Degree in Information Engineering & French Language](../images/BachelarCertificate.pdf), [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/index.html), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai.
   - [GPA: Information Engineering (91/100). French Language (87/100). Grade rank top 20%](../images/Transcription_ENG.pdf)
   - Selected Courses: C Program and Algorithm Analysis (91), Data Structure (94), Probability & Statistics (96), Database System Concepts (93), Machine Learning (96), Computer Networks (91), Computer Organization and Architecture (93) 
