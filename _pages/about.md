@@ -74,7 +74,8 @@ You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vit
   - Academic record: top 3 among c.600 students (top 0.5%). Early admission to Shanghai Jiao Tong university.
 
 # 💻 Experiences
-- *2024.03 - 2024.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interned as **Large Language Model Engineer** at an AI unicorn company [MINIMAX](https://www.minimaxi.com/)
+- *2025.06 - 2024.08* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interned as **AI Algorihtm Engineer** at [Ant Group](https://www.antgroup.com/), responsible for AISDR unified foundation model, building a full pipeline from rule-based data synthesis to SFT/DPO/GRPO training, achieving significant FinEval improvements and accelerating model iteration with business alignment.
+- *2024.03 - 2024.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interned as **Large Language Model Engineer** at an AI unicorn company [MINIMAX](https://www.minimaxi.com/), responsible for the pre-training and supervised fine-tuning code of the company's self-developed model ABAB, as well as the construction of long text datasets. I also expanded the code evaluation benchmark to enhance the model's performance in the code generation task. 
 - *2023.03 - 2024.03* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Topography Measurement by EBSD Calibration. Supervised by [Prof. Qiwei Shi](https://speit.sjtu.edu.cn/faculty/team-34.html). Patent application approved
 - *2023.06 - 2023.09* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Referring Image Segmentation Research Internship. Supervised by [Prof. Miaojing Shi](https://scholar.google.com/citations?user=aj2XHWoAAAAJ)
 - *2023.01 - 2023.03* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crowd Counting Model Research. Supervised by [Prof. Mark Vogelsberger](https://physics.mit.edu/faculty/mark-vogelsberger/). Paper accepted for publication
