@@ -21,7 +21,7 @@ Welcome to my personal website, where I share my passion and expertise in CS rel
 # 💬 About Me
 I am a first-year [Master of Engineering](https://www.meng.ucla.edu/) student at [UCLA Samueli School of Engineering](https://samueli.ucla.edu/) and a graduate of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from the [ParisTech Elite Institute of Technology](https://speit.sjtu.edu.cn/). My research interests include computer vision, natural language processing, and large language models. **I am currently actively seeking full-time job opportunities**.
 
-You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zhiyu Liu's Curriculum Vitae](../assets/Zhiyu Liu_CV_2509.pdf).
 
 [Email](mailto:lizhyuxi@sjtu.edu.cn) / [Wechat](../images/wechat.jpg)
 
